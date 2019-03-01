@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## A little about me.
 
-You can use the [editor on GitHub](https://github.com/TheSnailKing/thesnailking.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome all to my web-page! My name is Andy. I am a small time musician with some sketch and drawing art skills. On this page and with the power of github, I hope to learn how to code and with the help of some close peers of mine, create small video game projects that will eventually and hopefully become something bigger. It's been a dream of mine for a long time to create amazing fantasy landscapes, worlds created from my own imagination and something that wil inspire others as well as put smiles on people's faces. I want to be able to inspire those that need inspiration, and I want to be inspired by others who enjoy my work. I hope to make my dream a reality and to live knowing that I've acomplished something beautiful.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
